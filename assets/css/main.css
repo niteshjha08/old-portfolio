@@ -2304,7 +2304,23 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 5em 0;
+				padding: 1em 0;
+			}
+
+	}
+
+/* Extra wide */
+
+	@media screen and (min-width: 961px) and (max-width: 2500px) {
+
+		/* Main */
+
+			#main > section {
+				padding: 3em 0;
+			}
+
+			#main section.cover {
+				padding: 1em 0;
 			}
 
 	}
@@ -2570,7 +2586,7 @@ input, select, textarea {
 				}
 
 				#main section.cover {
-					padding: 4em 0;
+					padding: 1em 0;
 				}
 
 	}
@@ -2609,7 +2625,7 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 4em 0em;
+				padding: 1em 0em;
 			}
 
 				#main section.cover header {
